@@ -3,7 +3,7 @@ from telebot.types import Message
 from typing import List, Tuple
 
 #initialize the bot
-API_KEY = '6236712239:AAH56r1k6uDKwE5kPNBqWkcxKuAT8v2-7us'
+API_KEY = 'ENTER_YOUR_API_KEY'
 # define the bot and start the connection
 bot = telebot.TeleBot(API_KEY)
 #Checking the connection
